@@ -10,7 +10,7 @@
 ![Screenshot 2023-10-22 211329](https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/3de747db-e577-4585-b7b5-f120e4af56e5)
 
 ### Portfolio Website
-![Screenshot 2023-10-22 230320](https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/4a9df2d5-ebd3-498a-b1f8-0529e2a94a52)
+![image](https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/0574d4f8-2a3f-4c58-87dc-f172ef707c45)
 
 ### Airline Reservation System
 ![image](https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/d92cfa22-eaaa-4613-aea4-8aaec9a7c9de)
